@@ -1,13 +1,14 @@
 # PyBer_Analysis
-## Overview
+## Purpose
 
+## Background
 
 ## Resources
 
+## Analysis
 
-## Results
-### Analysis
-
+### Results
 
 ## Summary
+
 ### Recommendations
