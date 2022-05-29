@@ -33,7 +33,7 @@ Urban
 * Calculated Fare Total Per Driver: $603.93
 
 ### Summary Data Frame
-![PyBer Summary](Analysis/PyBer_summary2.png)
+![PyBer Summary](Analysis/PyBer_Summary2.png)
 
 Rural areas yield better results for the drivers making less rides and netting more money, however, this analysis does not take into account distance. Most likely, rural drivers are driving further than Suburban and Urban drivers. Urban areas have lower fares per ride and fares per driver than Suburban and Rural areas, it can be assumed with more drivers, and less distance, the fares would be lower on a per ride basis. However, with Urban having the most rides, the drivers still end up yielding the best total fares. 
 
